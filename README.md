@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Banner.gif" alt="Banner" width="800"/>
+  <img src="assets/hello.gif" alt="Banner" width="800"/>
 </p>
 
 ## Sobre mim
