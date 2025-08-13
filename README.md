@@ -14,16 +14,16 @@ Meu objetivo é crescer profissionalmente na área de dados, contribuindo com so
 
 <p align="left">
   <a href="https://www.youtube.com/" target="_blank">
-    <img src="assets/youtube-icon.svg" alt="Youtube" width="60px"/>
+    <img src="assets/youtube.svg" alt="Youtube" height="60px" width="60px"/>
   </a>
   <a href="https://www.linkedin.com/in/esdras-uday-1a6a1227a" target="_blank">
-    <img src="assets/linkedin-icon.svg" alt="Youtube" width="60px"/>
+    <img src="assets/linkedin.svg" alt="Youtube" height="60px" width="60px"/>
   </a>
   <a href="mailto:esdrasuday1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/gmail.svg" alt="Gmail" width="60px"/>
+    <img src="assets/gmail.svg" alt="Gmail" height="55px" width="60px"/>
   <a/>
   <a href="https://www.instagram.com/esdras_uday/" target="_blank">
-    <img src="assets/instagram.svg" alt="Gmail" width="60px"/>
+    <img src="assets/instagram.svg" alt="Gmail" height="60px" width="60px"/>
   <a/>
 </p>
 
