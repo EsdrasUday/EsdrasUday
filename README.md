@@ -4,11 +4,19 @@
 </p>
 
 ## Sobre mim
-Me chamo Esdras Uday da Silveira Maracajá, tenho 22 anos, atualmente, sou estudante de Ciência de Dados, com forte interesse na interseção entre tecnologia, análise de dados e soluções inteligentes. Durante minha trajetória acadêmica e prática, desenvolvi competências sólidas em Python para análise e automação de processos, SQL para manipulação e extração de dados relacionais, além de experiência com HTML, CSS e JavaScript no desenvolvimento de interfaces web intuitivas.
+<div align="left">
+  <p align="justify">
+    <strong>Desenvolvedor Fullstack e Cientista de Dados</strong> focado na construção de aplicações robustas, escaláveis e inteligentes. Com sólida experiência prática no ecossistema <span>Node.js (NestJS, React e TypeScript)</span> e <span>Python Avançado</span>, especializei-me em arquitetar soluções onde performance, segurança e decisões orientadas por dados são fundamentais. 
+  </p>
 
-Tenho buscado constantemente aprimorar minhas habilidades técnicas e analíticas, participando de projetos práticos que envolvem desde limpeza de dados até visualização e interpretação de resultados. Também me interesso por áreas como machine learning, classificação de dados, uso de tokens e aplicações de inteligência artificial, temas que venho explorando em cursos e laboratórios online, como a plataforma IBM SkillsBuild.
+  <p align="justify">
+    Tive atuação estratégica no desenvolvimento de plataformas de missão crítica e larga escala:como sistemas de prontuários médicos. Sendo responsável por garantir a integridade de dados sensíveis e otimização de fluxos de backend via <span>SQL e Prisma ORM</span> e novas features. Na vertente analítica, aplico conceitos de <span>Machine Learning</span>, inteligência artificial e engenharia de dados para extrair valor real de grandes volumes de informação e automatizar processos complexos.
+  </p>
 
-Meu objetivo é crescer profissionalmente na área de dados, contribuindo com soluções criativas, éticas e orientadas por resultados. Estou sempre aberto a novos aprendizados, colaborações e desafios que envolvam tecnologia, inovação e impacto positivo.
+  <p align="justify">
+     Tecnólogo em Ciência de Dados pela UEPB, busco constantemente expandir as fronteiras da tecnologia, unindo código limpo à análise estatística. Prezo por comunicação assertiva, arquiteturas eficientes e colaboração em times de alta performance. Atualmente, estou <strong>aberto a oportunidades profissionais globais e projetos desafiadores</strong> que demandem excelência técnica e impacto real.
+  </p>
+</div>
 
 ## Conecte-se Comigo!
 
@@ -22,14 +30,17 @@ Meu objetivo é crescer profissionalmente na área de dados, contribuindo com so
 ## Stack de Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="60px"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" height="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60 px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="60 px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="60px"/>
 </p>
 
 
